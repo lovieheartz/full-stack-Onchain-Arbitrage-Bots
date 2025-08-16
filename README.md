@@ -1,4 +1,4 @@
-# 🚀 Full Stack On-Chain Arbitrage Dashboard
+# 🚀 Full Stack On-Chain Arbitrage Bots
 
 <div align="center">
 
@@ -165,8 +165,8 @@ Solana            - High-speed blockchain
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/full-stack-onchain-arbitrage-dashboard.git
-cd full-stack-onchain-arbitrage-dashboard
+git clone https://github.com/lovieheartz/full-stack-Onchain-Arbitrage-Bots
+cd full-stack-onchain-arbitrage-Bots
 ```
 
 ### 2. Backend Setup
@@ -380,11 +380,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🐛 **Bug Reports**: Open an issue on GitHub
 - 💡 **Feature Requests**: Submit enhancement proposals
 - 📧 **Direct Support**: Email for urgent matters
-- 💬 **Community**: Join our Discord server
+
 
 ### Social Links
 - **GitHub**: [@rehanfarooque](https://github.com/lovieheartz)
-- **LinkedIn**: [Rehan Farooq](https://www.linkedin.com/in/rehan-farooque-419a35273/)
+- **LinkedIn**: [Rehan Farooque](https://www.linkedin.com/in/rehan-farooque-419a35273/)
 
 ---
 
